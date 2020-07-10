@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋
+
+Software engineer at @eucalyptusvc, moonlights as an electical engineer
 
 <!--
 **kelvinwtan/kelvinwtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
