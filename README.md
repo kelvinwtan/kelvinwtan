@@ -1,6 +1,6 @@
 ### Hey 👋
 
-Software engineer at [@eucalyptusvc](https://github.com/eucalyptusvc), moonlights as an electical engineer
+Product manager at [@eucalyptusvc](https://github.com/eucalyptusvc), moonlights as a Software Engineer
 
 <!--
 **kelvinwtan/kelvinwtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
